@@ -1,3 +1,6 @@
+//Teste do Framework
+//Uso do método expect e o matcher toBe do Jest
+
 const somaCompras = require ('../testes-unitarios/compras.js')
 const estoque = require ('../testes-unitarios/estoque.js')
 //test() também pode ser encontrada como it()

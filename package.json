@@ -1,0 +1,19 @@
+{
+  "name": "on16-todasemtech-s15-automacao-testes",
+  "version": "1.0.0",
+  "description": "Fala, galera! Tudo bem? Meu nome é Tereza e eu serei a instrutora da aula de Automação de Testes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisAnDias/On16-TodasEmTech-S15-Automacao-Testes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisAnDias/On16-TodasEmTech-S15-Automacao-Testes/issues"
+  },
+  "homepage": "https://github.com/ChrisAnDias/On16-TodasEmTech-S15-Automacao-Testes#readme"
+}
